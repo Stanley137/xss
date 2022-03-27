@@ -1,1 +1,1 @@
-alert(document.cookie);
+alert('Hello RFI');
