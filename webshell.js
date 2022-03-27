@@ -1,1 +1,1 @@
-alert('Hello RFI');
+<script>alert('Hello RFI');</script>
